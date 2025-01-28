@@ -1,0 +1,120 @@
+.productCard {
+    width: 316px;
+    height: 534px;
+    flex-shrink: 0;
+    background: #FFF;
+    border: 2px solid rgb(180, 180, 180);
+    padding: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.articul_title {
+    color: #000;
+    text-align: right;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    opacity: 0.68;
+}
+
+.articulsnum {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nameTovar {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cardDates {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.icons_title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon_title {
+    display: flex;
+    gap: 7px;
+}
+
+.names_titles {
+    color: #000;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    opacity: 0.8;
+}
+
+.names_info {
+    color: #000;
+    text-align: right;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.oldPrice {
+    color: #BBB;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: line-through;
+}
+
+.percentage {
+    width: 25px;
+    height: 13px;
+    color: #2B150D;
+    font-size: 11.021px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: #FFD634;
+    text-align: center;
+}
+
+.price {
+    color: #FF3838;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.perPrice {
+    display: flex;
+    gap: 8px;
+}
+
+.buyButton {
+    width: 131px;
+    height: 51px;
+    flex-shrink: 0;
+    background: #FFD634;
+    border: none;
+    border-radius: 8px;
+}
+
+.buyinfo {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}

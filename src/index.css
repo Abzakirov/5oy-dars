@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Roboto" !important;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px 20px;
+  max-width: 1440px;
+}
+
+
+button {
+  cursor: pointer;
+}
+
+@media(min-width:1485px) {
+  .container {
+    max-width: 1440px;
+  }
+}

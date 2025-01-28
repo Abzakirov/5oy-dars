@@ -1,0 +1,108 @@
+import React from "react";
+import cardPhoto from "../../assets/img/cardPhoto.png";
+import drown from "../../assets/svg/drown.svg";
+import square from "../../assets/svg/square.svg";
+import user from "../../assets/svg/user.svg";
+import check from "../../assets/svg/check.svg";
+
+const products = [
+  {
+    id: "1",
+    name: "Название товара длинное в две строки наверное",
+    articul: "0000001",
+    arcticuls: "Артикул: ",
+    dimensions: "12.5 x 14.6 x 4.5 м",
+    area: "53 м²",
+    capacitys: "15 чел.",
+    warranty: "10 лет",
+    price: "5023900 ₽" ,
+    oldPrice: 6123900,
+    discount: 18,
+    image: cardPhoto,
+    imgDrown: drown,
+    imgSquare: square,
+    imgUser: user,
+    imgCheck: check,
+    Size: "Размеры: ............................",
+    Squares: "Площадь: ...........................",
+    Capacity: "Вместимость: ..........................",
+    Guarente: "Гарантия: ................................",
+    percentage: "25%",
+    toBuy: "Купить"
+  },
+  {
+    id: "2",
+    name: "Название товара длинное в две строки наверное",
+    articul: "0000002",
+    arcticuls: "Артикул: ",
+    dimensions: "12.5 x 14.6 x 4.5 м",
+    area: "53 м²",
+    capacitys: "15 чел.",
+    warranty: "10 лет",
+    price: "5023900 ₽" ,
+    oldPrice: 6123900,
+    discount: 18,
+    image: cardPhoto,
+    imgDrown: drown,
+    imgSquare: square,
+    imgUser: user,
+    imgCheck: check,
+    Size: "Размеры: ............................",
+    Squares: "Площадь: ...........................",
+    Capacity: "Вместимость: ..........................",
+    Guarente: "Гарантия: ................................",
+    percentage: "25%",
+    toBuy: "Купить"
+  },
+  {
+    id: "3",
+    name: "Название товара длинное в две строки наверное",
+    articul: "0000003",
+    arcticuls: "Артикул: ",
+    dimensions: "12.5 x 14.6 x 4.5 м",
+    area: "53 м²",
+    capacitys: "15 чел.",
+    warranty: "10 лет",
+    price: "5023900 ₽" ,
+    oldPrice: 6123900,
+    discount: 18,
+    image: cardPhoto,
+    imgDrown: drown,
+    imgSquare: square,
+    imgUser: user,
+    imgCheck: check,
+    Size: "Размеры: ............................",
+    Squares: "Площадь: ...........................",
+    Capacity: "Вместимость: ..........................",
+    Guarente: "Гарантия: ................................",
+    percentage: "25%",
+    toBuy: "Купить"
+  },
+  {
+    id: "4",
+    name: "Название товара длинное в две строки наверное",
+    articul: "0000004",
+    arcticuls: "Артикул: ",
+    dimensions: "12.5 x 14.6 x 4.5 м",
+    area: "53 м²",
+    capacitys: "15 чел.",
+    warranty: "10 лет",
+    price: "5023900 ₽" ,
+    oldPrice: 6123900,
+    discount: 18,
+    image: cardPhoto,
+    imgDrown: drown,
+    imgSquare: square,
+    imgUser: user,
+    imgCheck: check,
+    Size: "Размеры: ............................",
+    Squares: "Площадь: ...........................",
+    Capacity: "Вместимость: ..........................",
+    Guarente: "Гарантия: ................................",
+    percentage: "25%",
+    toBuy: "Купить"
+  },
+ 
+];
+
+export { products };

@@ -1,0 +1,151 @@
+.footerbg {
+    background: #1F1F1F;
+    height: 486px;
+}
+
+.logos {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.groupLogo {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 200px;
+
+}
+
+.groups {
+    width: 124px;
+    height: 32px;
+    flex-shrink: 0;
+    margin: 0 auto;
+}
+
+.adres {
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nine {
+    color: #FF7A1B;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.zvons {
+    color: #FFF;
+    text-align: center;
+    width: 275px;
+    height: 50px;
+    flex-shrink: 0;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 6px;
+    background: #FF7A1B;
+    border: none;
+}
+
+.groplar {
+    display: flex;
+    gap: 24px;
+}
+
+.grouplars {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footers_a {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.footers_ul {
+    display: flex;
+    gap: 40px;
+}
+
+.infos {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e7e7e7;
+    text-align: center;
+}
+
+
+.uiLinks {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.heading {
+    color: #F9F8F3;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.contactInfo {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.errorReport {
+    color: #FFF;
+    font-family: "Museo Sans Cyrl";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.companyInfo {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150.5%;
+    /* 21.07px */
+}
+.uls{
+    display: flex;
+    gap: 40px;
+}
+.erors{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.ils{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}

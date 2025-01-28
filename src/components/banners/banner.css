@@ -1,0 +1,28 @@
+.banner {
+    width: 100%;
+}
+
+.bannner_title {
+    color: #2D170C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.5%;
+    /* 17.71px */
+    letter-spacing: -0.21px;
+}
+
+.banners_info {
+    display: flex;
+    width: 400px !important;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+}
+
+.banner_info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}

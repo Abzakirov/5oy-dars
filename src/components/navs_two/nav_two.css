@@ -1,0 +1,167 @@
+.orange {
+    background-color: #FF7A1B;
+    border-radius: 9px;
+    width: 32px;
+    height: 32px;
+}
+
+.black {
+    background-color: #2B150D;
+    border-radius: 9px;
+    width: 32px;
+    height: 32px;
+}
+
+.yellow {
+    background-color: #FFD634;
+    border-radius: 9px;
+    width: 32px;
+    height: 32px;
+}
+
+.colors_nav {
+    display: flex;
+    gap: 20px;
+}
+
+.colors_content {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+    width: 191px;
+}
+
+.colors_title {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.check_title {
+    display: flex;
+    gap: 12px;
+    color: #2B150D;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.check_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+}
+
+.contentsForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px !important;
+}
+
+.searchs_button {
+    width: 156px;
+    height: 45px;
+    flex-shrink: 0;
+    background: #FFD634;
+    border-radius: 0 5px 8px 0;
+
+    border: none;
+}
+
+.search_nav_input {
+    background: transparent;
+    width: 100%;
+    padding: 10px;
+    border: none;
+}
+
+.nav_form {
+    margin-top: 20px;
+    width: 758px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 1px solid #E8E8E8;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.clock_contents {
+    display: flex;
+    gap: 12px;
+}
+
+.clock_title {
+    color: #000;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nums_form {
+    color: #2B150D;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.clock_info {
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.mail_title {
+    color: #000;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.mail_content {
+    display: flex;
+    gap: 8px;
+}
+
+.call_button {
+    border: none;
+    cursor: pointer;
+    width: 223px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FF7A1B;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.mail_clock_content {
+    display: flex;
+    gap: 30px;
+}
+
+.mail_contents_call {
+    width: 250px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+

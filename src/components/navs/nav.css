@@ -1,0 +1,37 @@
+.loc__content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav_contens{
+    display: flex; 
+    align-items: center; 
+    gap: 50px;
+}
+.loc__titles {
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav_ul {
+    display: flex;
+    gap: 74px;
+    align-items: center;
+}
+
+.nav__a {
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,39 @@
+.nash {
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ochish {
+    width: 222px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid #E8E8E8;
+    background: #FF7A1B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.btns {
+    margin-top: 40px;
+}
+
+.lstsCard {
+    background: #F9F8F3;
+}
+
+.bgs {
+    background: #F9F8F3;
+}
